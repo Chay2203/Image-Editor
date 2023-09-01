@@ -1,2 +1,2 @@
 # Image-Editor
-made an image editor using Java
+made an image editor using java.
